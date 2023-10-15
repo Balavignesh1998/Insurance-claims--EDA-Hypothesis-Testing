@@ -1,4 +1,4 @@
-# Insurance-claims--EDA-Hypothesis-Testing
+# Insurance-claims-EDA-Hypothesis-Testing
 
 ## objective:
 Explore the dataset and extract insights from the data. Using statistical evidence to
